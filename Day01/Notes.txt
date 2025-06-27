@@ -1,0 +1,25 @@
+there is difference between the javascript which runs on the browser and server 
+Nodejs is run on Asynchronous Non-Blocking I/O Model..
+
+Nodejs is javascript runtime enviroment not a language
+
+NPM -> Node Package Manager
+
+Nodejs Version System :-
+1) Current
+2) Active
+3) Maintenace
+4) Unstable
+
+For 6 month they release future version or say it as current version, It is basically for those library manitaner
+Later, The odd number version like node21, node19 and node23 they became unsupported..
+And all the even number versions are geting Active.. (*LTS(Long Term Support))
+
+Every LTS version has it's own name called as codename
+
+if you want to fast run or debug the node js code then you use the REPL(Read Eval Print Loop)
+
+activate => command -> node
+basically it make the node shell just similar thing happen when you write python and open the python shell, where easliy run your code in node it called(REPL)
+
+some Commmand in it => access them using the .help
